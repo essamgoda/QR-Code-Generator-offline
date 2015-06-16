@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QR Code Generator</string>
+    <string name="about">Programed by : Essam Goda  \n\n engessamgoda@gmail.com</string>
+    <string name="action_about">About</string>
+    <string name="genbtn">Generate QR Code</string>
+    <string name="savebtn">Save</string>
+    <string name="hint">Enyer text here</string>
+    <string name="imgdiscrip">qr image</string>
+
+</resources>
